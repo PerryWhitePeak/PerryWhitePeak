@@ -39,29 +39,3 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-## 📁 Projects
-
-<p align="center">
-  <a href="https://github.com/PerryWhitePeak/aim-tracker">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=PerryWhitePeak&repo=aim-tracker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&icon_color=3B82F6&description_lines_count=2" />
-  </a>
-  <a href="https://github.com/PerryWhitePeak/Math_Modeling">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=PerryWhitePeak&repo=Math_Modeling&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&icon_color=3B82F6&description_lines_count=2" />
-  </a>
-</p>
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PerryWhitePeak/PerryWhitePeak/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PerryWhitePeak/PerryWhitePeak/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PerryWhitePeak/PerryWhitePeak/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PerryWhitePeak&color=3B82F6&style=flat-square" alt="Profile views" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=footer"/>
