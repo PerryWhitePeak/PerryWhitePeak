@@ -1,0 +1,16 @@
+query {
+  user(login: "PerryWhitePeak") {
+    contributionsCollection {
+      contributionCalendar {
+        totalContributions
+        weeks {
+          contributionDays {
+            contributionCount
+            date
+            color
+          }
+        }
+      }
+    }
+  }
+}
