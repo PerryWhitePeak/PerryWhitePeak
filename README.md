@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3B82F6&center=true&vCenter=true&width=940&lines=Hi+there%2C+I'm+Perry+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3B82F6&center=true&vCenter=true&width=940&lines=Hi+there%2C+I'm+Perry+%F0%9F%91%8B&repeat=false" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,12 +26,6 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerryWhitePeak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PerryWhitePeak&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ## 🛠 Tech Stack
